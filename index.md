@@ -14,6 +14,13 @@ A bulleted list:
 	- level 2
 	- level 2
 
+A bulleted list can also be made with the "*"
+* level 1
+* level 2
+	* level 1
+	* level 2
+		* let's get crazy and have a level 3
+
 A numbered list:
 1. One
 2. Two
